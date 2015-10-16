@@ -1,5 +1,5 @@
 #Block Ninja
-#####January 2014
+######January 2014
 
 Block Ninja was one of the small projects I made. It was inspired by Flappy Bird; I wanted to make a small phone-like game that was difficult. This project was helpful because it was good practice for creating something very quickly.
 
